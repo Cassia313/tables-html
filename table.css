@@ -1,0 +1,14 @@
+table{
+    border-style: solid;
+    border-width: 3px;
+    border-color: darkslategray;
+    border-collapse: collapse; /*"junta" as linhas da borda*/
+}
+td, th{
+    border-style: solid;
+    border-width: 3px;
+    border-color: darkslategray;
+}
+th{
+    border-style: double;
+}
