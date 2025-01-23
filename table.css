@@ -1,0 +1,15 @@
+table{
+    border-style: solid;
+    border-width: 3px;
+    border-color: darkblue;
+    border-collapse: collapse;
+}
+td, th{
+    border-style: double;
+    border-width: 3px;
+    border-color: darkblue;
+}
+th{
+    border-color: darkorange;
+    background-color: aquamarine;
+}
